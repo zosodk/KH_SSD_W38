@@ -1,0 +1,6 @@
+@KH_SSD_W38_HostAddress = http://localhost:5026
+
+GET {{KH_SSD_W38_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
